@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "806399321630",
+    "firebase_url": "https://buyveggie-541b6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buyveggie-541b6",
+    "storage_bucket": "buyveggie-541b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806399321630:android:a1fd444e9605caf633f00f",
+        "android_client_info": {
+          "package_name": "com.example.buyveggie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806399321630-28h22e2vm8cnkeq4sbqqrrog8rloa5ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXWrwnU8q4IAMq7VLqPfiJM32Yjgn8bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806399321630-28h22e2vm8cnkeq4sbqqrrog8rloa5ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806399321630:android:396affe32eaa603c33f00f",
+        "android_client_info": {
+          "package_name": "com.example.otp_verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806399321630-28h22e2vm8cnkeq4sbqqrrog8rloa5ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXWrwnU8q4IAMq7VLqPfiJM32Yjgn8bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806399321630-28h22e2vm8cnkeq4sbqqrrog8rloa5ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
